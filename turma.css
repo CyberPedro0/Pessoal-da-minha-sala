@@ -70,5 +70,7 @@ h2 {
 }
 
 .Eu {
-    color: rgb(0, 0, 0);
+    color: #c99b07;
+    text-shadow: 3px 3px 3px black;
+    
 }
