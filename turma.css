@@ -50,7 +50,7 @@ li > p{
 
 span {
     color: rgb(253, 182, 1);
-    font-size: 20px;
+    font-size: 18px;
     text-shadow: 3px 3px 3px black;
 }
 
@@ -67,4 +67,8 @@ a {
 
 h2 {
     margin-top: 20px;
+}
+
+.Eu {
+    color: rgb(0, 0, 0);
 }
